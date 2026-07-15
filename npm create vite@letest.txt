@@ -1,0 +1,18 @@
+npm create vite@letest
+
+
+if that command not working just remove @letest from above command
+
+then select y
+then put project name
+then select framework : React
+Select a variant: javascript
+you rolldown vite : no
+
+// Run the react project is just put below command
+
+npm run dev
+
+that command not working then install node module
+
+using command npm i
