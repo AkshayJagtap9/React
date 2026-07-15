@@ -5,7 +5,7 @@ if that command not working just remove @letest from above command
 
 then select y
 then put project name
-Package name: package.json
+//Package name: package.json
 then select framework : React
 Select a variant: javascript
 you rolldown vite : no
