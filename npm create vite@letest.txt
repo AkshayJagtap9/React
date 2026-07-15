@@ -5,10 +5,11 @@ if that command not working just remove @letest from above command
 
 then select y
 then put project name
+Package name: package.json
 then select framework : React
 Select a variant: javascript
 you rolldown vite : no
-
+Install with npm and start now?: Yes
 // Run the react project is just put below command
 
 npm run dev
