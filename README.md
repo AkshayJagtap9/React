@@ -5,4 +5,4 @@ npm create vite@letest.txt== file use for create vite app steps and command for 
 4 state in cbc-fbc in that folder program of state initialization in cbc and fbc 
 5 State update using setInterval and event in cbc-fbc :-  states update using setInterval() and events in cbc-fbc. After 
   click on increment button state update in event programs
-  
+6 Home Work depend on event handling and state update  :- four questions depends on state change using events 
